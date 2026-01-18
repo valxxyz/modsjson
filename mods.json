@@ -9,6 +9,14 @@
       "group": "Menus"
     },
     {
+      "name": "iiDk Menu",
+      "tag": "",
+      "gitPath": "iiDk-the-actual/iis.Stupid.Menu",
+      "releaseId": 0,
+      "author": "iiDk",
+      "group": "Menus"
+    },
+    {
       "name": "BepInEx",
       "tag": "",
       "gitPath": "BepInEx/BepInEx",
