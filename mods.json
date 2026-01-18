@@ -1,11 +1,11 @@
 {
   "mods": [
     {
-      "name": "Atlas Remade",
+      "name": "Atlas",
       "tag": "",
       "gitPath": "valxxyz/atlas",
       "releaseId": 0,
-      "author": "flopaa1",
+      "author": "UNlucky",
       "group": "Menus"
     },
     {
